@@ -2,7 +2,7 @@
 #include "kernel_Task.h"
 #include <string.h>
 #define		On	1 gdfsgdfsg
-#define		Off	0
+#define		Off	0a sfdsadf
 
 typedef_MainTaskJob 	*TaskJob_ptr;
 //單一功能執行
